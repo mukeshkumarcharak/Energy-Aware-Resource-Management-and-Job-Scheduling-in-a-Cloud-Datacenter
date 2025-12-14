@@ -4,7 +4,7 @@ Job Scheduler and process simulator in a virtual data center to balance load and
 ## Team Members
 * Mehvash Khan (khanmj2@rknec.edu)
 * Tejas Bhutada (bhutadats@rknec.edu)
-* Mukesh Kumar (kumarm_1@rknec.edu)
+* Mukesh Kumar (kumarm_1@rknec.edu or mukeshkumarcharak@gmail.com)
 
 
 ## Abstract
